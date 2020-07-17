@@ -1,0 +1,10 @@
+here in test.xml we have list of names of countries which is used to retrieve data from openweathermap.org .
+
+open weathermap app id= 255108f14faae1200038496340eb9e59
+
+the gathered data is then stored in weather.xml, it has city name, temprature,unit of temp,humidity,and weather.
+
+the time gap between update of each city is 1 sec.
+
+you can add the city to test . xml and run program to get weather details of that city.
+
